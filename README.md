@@ -1,5 +1,5 @@
 # for_me
-
+```
 import pandas as pd
 from itertools import product
 
@@ -20,3 +20,4 @@ def f2(a, b):
 if __name__ == "__main__":
     print(truth_table(f1))
     print(truth_table(f2))
+```
